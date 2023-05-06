@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+}
+p {
+    margin-right: 40px;
+}
+h1 {
+    margin: 0px 400px;
+    text-align: center;
+}
+button.redondo {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 0px 20px;
+    height: 32px;
+}
+div#introduction-actions {
+    display: flex;
+    justify-content: center;
+}
+
+#impacto-h1 {
+    color: white;
+
+    justify-content: left;
+    margin: 0 0;
+    text-align: left;
+    /* font-size:x-large; */
+}
+
+
+#impacto-p {
+    color: white;
+
+    text-align: left;
+    font-size: medium;
+
+
+}
+#container-impacto{
+    padding: 60px; 
+    background-color:black;
+    display: flex;
+    color: white ;
+    width: auto;
+}
+
+#impacto {
+    width: 50%;
+}
+#numeros{
+    width: 50%;
+}
+#imagen{
+    display: flex;
+}
+#imagen-xacademy{
+    width: 100%;
+}
+    
